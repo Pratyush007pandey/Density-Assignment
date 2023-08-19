@@ -1,3 +1,29 @@
+# Task
+
+Develop this [nice webpage](https://dribbble.com/shots/19807069-Ahead-app-redesign-concept) with animation.
+
+Tip: Can explore [greensock](https://greensock.com/)/framer/etc whichever you think can go to a production-grade website, you can go
+
+**Tech stack: NextJS**, tailwind/mui or any css library similar.
+
+### **Evaluation criteria**
+
+1. Quality of your work. **Final UI, UX and code quality are important criterias**
+2. Should balance the quality/scope with the speed to completion. :) ⚡
+
+**Note 1:** Assets are not provided - feel free to do your research.
+
+## Dribble Design -
+
+https://dribbble.com/shots/19807069-Ahead-app-redesign-concept
+
+## Live Link
+
+https://density-exchange-ahead-app-task.vercel.app
+
+<br/>
+<br/>
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
