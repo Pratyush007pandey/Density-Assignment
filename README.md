@@ -19,8 +19,6 @@ https://dribbble.com/shots/19807069-Ahead-app-redesign-concept
 
 ## Live Link
 
-https://density-exchange-ahead-app-task.vercel.app
-
 <br/>
 <br/>
 
